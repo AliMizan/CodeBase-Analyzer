@@ -78,7 +78,7 @@ python ./analyzer.py {directory of the repo} --interactive
 ![Web Use](images/webuse.png)
 
 ### Q/A with Agent in Web
-![Web Q/A](images/webqa.png.png)
+![Web Q/A](images/webqa.png)
 
 ### Example json analysis for whole prject
 
