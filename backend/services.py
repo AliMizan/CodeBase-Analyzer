@@ -131,7 +131,7 @@ import json
 from typing import List, Dict, Any, Optional
 from .schemas import ReportResponse, Issue
 from pathlib import Path
-from new2 import EnhancedCodebaseAnalyzer, AnalysisConfig
+from analyzer import EnhancedCodebaseAnalyzer, AnalysisConfig
 import subprocess
 import tempfile
 

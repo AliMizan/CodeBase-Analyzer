@@ -75,7 +75,10 @@ python ./analyzer.py {directory of the repo} --interactive
 
 3. Enter a GitHub repo URL 
 
-![Web Use](images/cli-use.png)
+![Web Use](images/webuse.png)
+
+### Q/A with Agent in Web
+![Web Q/A](images/webqa.png.png)
 
 ### Example json analysis for whole prject
 
@@ -93,7 +96,8 @@ Issue: Hardcoded API key detected.\\
 
 - Suggestion: Use environment variables.\
 
-### Also shows lists of  issues in web
+### Also shows lists of  issues in webwith 
+Shows the line number,description of the issue ,type,severity,and confidence score
 ![Issue list example in Web](images/issuelist.png)
      ...
 
