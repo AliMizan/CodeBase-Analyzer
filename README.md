@@ -94,7 +94,7 @@ Issue: Hardcoded API key detected.\\
 - Suggestion: Use environment variables.\
 
 ### Also shows lists of  issues in web
-![Issue list example in Web](images/issuelist.png.png)
+![Issue list example in Web](images/issuelist.png)
      ...
 
 ### **Interactive Q&A**:

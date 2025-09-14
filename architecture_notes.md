@@ -26,7 +26,7 @@
     - **Cons**: Embedding process is computationally expensive; requires tuning for optimal chunk size and embedding model.
 
 ### Web Deployment
-- **Decision**: Implement a lightweight React-based web UI for GitHub repo analysis.
+- **Decision**: Implement a React-based web UI for GitHub repo analysis with fast api as a backend.
   - **Rationale**: Enhances accessibility for non-technical users and integrates with GitHub APIs for seamless repo cloning.
   - **Trade-Offs**:
     - **Pros**: User-friendly interface; aligns with bonus requirement.
