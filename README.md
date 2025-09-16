@@ -39,6 +39,10 @@ A powerful tool to analyze code repositories, detect quality issues, generate de
    ```bash
    pip install -r requirements.txt
    ```
+4. Set your env file with the api
+   ```bash
+   OPENAI_API_KEY = Your api key 
+   ```
 
 
 ## Usage
