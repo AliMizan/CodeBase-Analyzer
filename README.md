@@ -54,7 +54,7 @@ Analyze a local codebase:
 ```bash
 python ./analyzer.py {directory of the repo} 
 ```
-The github repo link functionality added in the web app.
+-> The github repo link functionality added in the web app.
 
 Start interactive Q&A:
 
